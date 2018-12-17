@@ -27,18 +27,16 @@ html, body{
     background-position: left top;
     height: 100%;
     overflow: hidden;
-    
 }
-
-h1{
-    padding-top: 15px;
-	width: 100%;
+    
+.name}
+	
 	font-size: 300%; 
 }
-h2{
-	width: 100%;
+.job{
+	
 	font-size: 150%; 
 }
 body{
-	margin: 20px;s
+	margin: 20px;
 }
