@@ -12,7 +12,6 @@ html, body{
 	display:grid;
 	grid-template-columns: 50% 50%;
 	}
-
 .wrapper > div{
 	background:#eee;
 	padding:1em;
@@ -31,6 +30,13 @@ html, body{
     
 }
 
-.name{
+h1{
     padding-top: 15px;
+	width: 100%
+	font-size: 300%; 
+}
+h1{
+    padding-top: 15px;
+	width: 100%
+	font-size: 150%; 
 }
