@@ -8,6 +8,10 @@ html, body{
     -ms-user-select: none; /* IE 10+ */
     user-select: none; /* Standard syntax */
 }
+.wrapper{
+	display:grid;
+	grid-template-columns: 50% 50%;
+	}
 
 .wrapper > div{
 	background:#eee;
