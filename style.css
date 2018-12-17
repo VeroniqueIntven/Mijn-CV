@@ -32,11 +32,13 @@ html, body{
 
 h1{
     padding-top: 15px;
-	width: 100%
+	width: 100%;
 	font-size: 300%; 
 }
 h2{
-    padding-top: 15px;
-	width: 100%
+	width: 100%;
 	font-size: 150%; 
+}
+body{
+	margin: 20px;s
 }
