@@ -19,16 +19,14 @@ html, body{
 .name{
 	
 	font-size: 50px; 
-	background-color:red;
-	border-bottom: 5px solid black;
-	border-right: 5px solid black;	
+	background-color:red;	
 	
 }
 .job{
 	
 	font-size: 25px; 
 	border-bottom: 5px solid black;
-	text-align: bottom;
+	text-align: center;
 }
 .info{
 	border-bottom: 3px solid black; 
@@ -46,6 +44,9 @@ html, body{
 .content{
 	 
 	border-right: 5px solid black;
+	border-bottom: 3px solid black;
+}
+.experience{
 	border-bottom: 3px solid black;
 }
 
