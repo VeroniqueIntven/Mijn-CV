@@ -12,7 +12,9 @@ html, body{
 	display:grid;
 	grid-template-columns: 50% 50%;
 	}
-
+.wrapper > div{
+	padding: 2em;
+	}
     
 .name{
 	
@@ -20,12 +22,13 @@ html, body{
 	background-color:red;
 	border-bottom: 5px solid black;
 	border-right: 5px solid black;	
-	margin-left: 10px;
+	
 }
 .job{
 	
 	font-size: 25px; 
 	border-bottom: 5px solid black;
+	text-align: bottom;
 }
 .info{
 	border-bottom: 3px solid black; 
@@ -39,13 +42,11 @@ html, body{
 .blue{
 	background-color:blue; 
 	border-right: 5px solid black;
-	border-top: 3px solid black;
 }
 .content{
 	 
 	border-right: 5px solid black;
 	border-bottom: 3px solid black;
 }
-body{
-	margin: 20px;
-}
+
+
