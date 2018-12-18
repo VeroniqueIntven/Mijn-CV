@@ -17,14 +17,14 @@ html, body{
 	
 	font-size: 50px; 
 	background-color:red;	
-	border-bottom: 5px solid black;
+	
 	border-right: 5px solid black;
-	padding: 1em;
+	padding: O.5em;
 }
 .job{
 	
 	font-size: 25px; 
-	margin: auto;
+	
 	float: left;
 }
 .info{
@@ -32,6 +32,7 @@ html, body{
 	border-right: 5px solid black;
 	margin-bottom: 10 px;
 	padding: 2em;
+	border-top: 5px solid black;
 }
 .about{
 	background-color:yellow; 
