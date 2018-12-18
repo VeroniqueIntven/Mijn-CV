@@ -19,13 +19,11 @@ html, body{
 	background-color:red;	
 	border-bottom: 5px solid black;
 	border-right: 5px solid black;
-	
+	padding: 1em;
 }
 .job{
 	
 	font-size: 25px; 
-	border-bottom: 5px solid black;
-	vertical-align: center;
 	margin: auto;
 }
 .info{
@@ -53,6 +51,7 @@ html, body{
 .experience{
 	border-bottom: 3px solid black;
 	padding: 2em;
+	border-top: 5px solid black;
 }
 .interests{
 	border-bottom: 3px solid black;
