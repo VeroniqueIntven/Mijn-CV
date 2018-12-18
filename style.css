@@ -12,9 +12,6 @@ html, body{
 	display:grid;
 	grid-template-columns: 50% 50%;
 	}
-.wrapper > div{
-	padding: 2em;
-	}
     
 .name{
 	
@@ -22,35 +19,43 @@ html, body{
 	background-color:red;	
 	border-bottom: 5px solid black;
 	border-right: 5px solid black;
-	padding: 0em;
+	
 }
 .job{
 	
 	font-size: 25px; 
 	border-bottom: 5px solid black;
 	vertical-align: center;
-	padding: 0em;
+	margin: auto;
 }
 .info{
 	border-bottom: 3px solid black; 
 	border-right: 5px solid black;
 	margin-bottom: 10 px;
+	padding: 2em;
 }
 .about{
 	background-color:yellow; 
 	border-bottom: 3px solid black;
+	padding: 2em;
 }
 .blue{
 	background-color:blue; 
 	border-right: 5px solid black;
+	padding: 2em;
 }
 .content{
 	 
 	border-right: 5px solid black;
 	border-bottom: 3px solid black;
+	padding: 2em;
 }
 .experience{
 	border-bottom: 3px solid black;
+	padding: 2em;
 }
-
+.interests{
+	border-bottom: 3px solid black;
+	padding: 2em;
+}
 
