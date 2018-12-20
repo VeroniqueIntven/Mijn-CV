@@ -9,7 +9,7 @@ html, body{
     user-select: none; /* Standard syntax */
     color: #000000;
 	background-color: #f1f1f1;
-	text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+	text-shadow: 2px 2px 4px #000000;
 }
 .wrapper{
 	display:grid;
